@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Talha Shahid</h1>
+<h1 align="center">Hello World, I'm Talha Shahid</h1>
 <h3 align="center">WebDeveloper | ReactJS | MERN Stack</h3>
 
 <p align="left"> <a href="https://twitter.com/m_talha_shahid" target="blank"><img src="https://img.shields.io/twitter/follow/m_talha_shahid?logo=twitter&style=for-the-badge" alt="m_talha_shahid" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 All of my projects are available at [https://www.talhashahid.me/portfolio](https://www.talhashahid.me/portfolio)
 
 - 📫 How to reach me **https://www.linkedin.com/in/talha-shahid-ch/**
 
@@ -12,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_talha_shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_talha_shahid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/talha-shahid-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talha-shahid-ch" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
