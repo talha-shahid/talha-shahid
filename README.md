@@ -1,6 +1,7 @@
-![logo](https://github.com/talha-shahid/talha-shahid/blob/main/20230208_125838_0000.png)
 <h1 align="center">Hello World, I'm Talha Shahid</h1>
 <h3 align="center">WebDeveloper | ReactJS | MERN Stack</h3>
+
+<img align="right" alt="talha" width="400" src="https://github.com/talha-shahid/talha-shahid/blob/main/20230208_125838_0000.png">
 
 <p align="left"> <a href="https://twitter.com/m_talha_shahid" target="blank"><img src="https://img.shields.io/twitter/follow/m_talha_shahid?logo=twitter&style=for-the-badge" alt="m_talha_shahid" /></a> </p>
 
