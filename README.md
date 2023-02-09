@@ -1,3 +1,4 @@
+![logo](https://github.com/talha-shahid/talha-shahid/blob/main/20230208_125838_0000.png)
 <h1 align="center">Hello World, I'm Talha Shahid</h1>
 <h3 align="center">WebDeveloper | ReactJS | MERN Stack</h3>
 
