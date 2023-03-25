@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_talha_shahid" target="blank"><img src="https://img.shields.io/twitter/follow/m_talha_shahid?logo=twitter&style=for-the-badge" alt="m_talha_shahid" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I work mostly on **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://www.talhashahid.me/portfolio](https://www.talhashahid.me/portfolio)
 
