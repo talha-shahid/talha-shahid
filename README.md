@@ -2,13 +2,14 @@
 <h3 align="center">WebDeveloper | ReactJS | MERN Stack</h3>
 
 <img align="right" alt="talha" width="400" src="https://github.com/talha-shahid/talha-shahid/blob/main/20230208_125838_0000.png">
-<br/>
 
+<div style="margin-top: 2px">
 - 🌱 I work mostly on **MERN Stack**
 - ❤️ Programming, 🍿Movies, 📖Reading
 - 👨‍💻 Check my Portfolio [https://www.talhashahid.me/portfolio](https://www.talhashahid.me/portfolio)
 - 📫 How to reach me **https://www.linkedin.com/in/talha-shahid-ch/**
 - 📄 Know more about me [https://www.talhashahid.me/](https://www.talhashahid.me/)
+</div>
 
 # 📱 Connect:
 <p align="left">
