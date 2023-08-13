@@ -23,9 +23,6 @@
 <table>
   <tr>
     <td align='center' width="190">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="ROR" alt="ROR" width="40" height="40"/>
-    </td>
-    <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
     </td>
     <td align='center' width="190">
@@ -36,6 +33,9 @@
     </td>
     <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+    </td>
+        <td align='center' width="190">
+      <img src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg" title="ROR" alt="ROR" width="40" height="40"/>
     </td>
   </tr>
   <tr>
