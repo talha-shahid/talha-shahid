@@ -3,14 +3,10 @@
 
 <img align="right" alt="talha" width="400" src="https://github.com/talha-shahid/talha-shahid/blob/main/20230208_125838_0000.png">
 
-<p align="left"> <a href="https://twitter.com/m_talha_shahid" target="blank"><img src="https://img.shields.io/twitter/follow/m_talha_shahid?logo=twitter&style=for-the-badge" alt="m_talha_shahid" /></a> </p>
-
 - 🌱 I work mostly on **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [https://www.talhashahid.me/portfolio](https://www.talhashahid.me/portfolio)
-
+- ❤️ Programming, 🍿Movies, 📖Reading
+- 👨‍💻 Check my Portfolio [https://www.talhashahid.me/portfolio](https://www.talhashahid.me/portfolio)
 - 📫 How to reach me **https://www.linkedin.com/in/talha-shahid-ch/**
-
 - 📄 Know more about me [https://www.talhashahid.me/](https://www.talhashahid.me/)
 
 # 📱 Connect:
