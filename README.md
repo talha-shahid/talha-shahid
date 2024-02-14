@@ -6,9 +6,9 @@
 
 - 🌱 I work mostly on **MERN Stack**
 - ❤️ Programming, 🍿Movies, 📖Reading
-- 👨‍💻 Check my Portfolio [https://www.talhashahid.me/portfolio](https://www.talhashahid.vercel.app/portfolio)
+- 👨‍💻 Check my Portfolio [https://www.talhashahid.vercel.app/portfolio](https://www.talhashahid.vercel.app/portfolio)
 - 📫 How to reach me **https://www.linkedin.com/in/talha-shahid-ch/**
-- 📄 Know more about me [https://www.talhashahid.me/](https://www.talhashahid.vercel.app/)
+- 📄 Know more about me [https://www.talhashahid.vercel.app/](https://www.talhashahid.vercel.app/)
 
 
 # 📱 Connect:
