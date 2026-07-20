@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/talha-shahid/talha-shahid/blob/main/main.png" width="400" style="border-radius: 50%;" alt="Talha Shahid" />
+  <img src="https://github.com/talha-shahid/talha-shahid/blob/main/main.png" width="600" style="border-radius: 50%;" alt="Talha Shahid" />
 </p>
 
 ---
