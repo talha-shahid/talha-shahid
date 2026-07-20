@@ -13,10 +13,11 @@
 
 ## 💫 About Me
 
-- 🧑‍💻 MERN Stack Developer (React, Node, MongoDB, Express)
-- ⚡ Focused on clean UI, performance & scalable architecture  
-- ❤️ Passionate about coding, movies & learning new tech  
-- 🌐 Portfolio: https://talhashahid.vercel.app  
+- 🧑‍💻 MERN Stack Developer (React, Node, MongoDB, Express) 
+- ⚡ Focused on good looks and charming personality, performance so good that your resources sit idle.
+- ❤️ Passionate about coding, movies & learning new tech
+- ✍️ Full Time learner, interested in Science, Philosophy, History, Psychology, Religion, Poetry and Literature
+- 🌐 Website: https://talhashahid.vercel.app  
 - 📄 Portfolio Page: https://talhashahid.vercel.app/portfolio  
 - 📫 LinkedIn: https://www.linkedin.com/in/talha-shahid-ch  
 
